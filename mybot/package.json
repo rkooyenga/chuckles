@@ -1,0 +1,66 @@
+{
+  "name": "chuckles the charles lloyd bot",
+  "version": "0.0.0",
+  "description": "a simple bot recreation of a once complex man, 'charles-lloyd bot' gives legacy to its namesake immortalizing a delicately curated exclusive selection of responses based on 2 of the 3 in person meetings I have had with my former partner of a decade with whom I share an incomparably successful string of companies and with whom I've lost as many to thieving partners. These are the simple and final statements that ended 90% of the less than 10 I have had with him since He locked me out of our mutual company, bank accounts, all assets, resources contractor communications, emails, phones and laying waste to 90% of what I had been building to our mutual benefit, save for a handful of things that despite their high worth many times what we were making at the time, each incurred a different response but each meant the same time. In short everything is a lie. all lies. bank account with transactions coming in in real time in your face? Thats a lie. but what about... nope thats a lie. Look you have to believe after everything, \"nah nah anh thats a lie\". you get the point. Trying to laugh about what ultimately is the decimation of of life my finances my home my relationships, my reputation, and my health. ITs a passive agressive last i don't know what you call it. but its not intended for him to see it, not while im alive not that he could now make things any worse, he could for those i still care about. and is mean enough to want to. Business Genius Charles Lloyd everyone. Can refute whats in his face, turn on anyone after any sacrifice or measure of loyalty, the smallest of men with a world class ego, the narccist, the monster, a man the only man besides my father and uncle that I ever looked up to, and killed myself trying to please. He grows simple as he does grey. His vision narrows, his ears hear now only as they desire to, the only news is fake news, tonight at 11 want to steal a company? try yelling thief and then pointing at an innocent person and as everyone turns to look you fill your pockets and walk away. More on this at 11. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "greeting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rkooyenga/chuckles"
+  },
+  "keywords": [
+    "charles",
+    "lloyd",
+    "ray",
+    "kooyenga",
+    "raymond",
+    "anthony",
+    "bot",
+    "lie",
+    "fhi",
+    "incense",
+    "antifah",
+    "glen",
+    "adam",
+    "kratom",
+    "befound",
+    "marketing",
+    "white",
+    "hatter",
+    "seo",
+    "ppc",
+    "tucson",
+    "edapte",
+    "scam",
+    "ftc",
+    "sa",
+    "osama",
+    "aresheh",
+    "bruce",
+    "nowai",
+    "baxter",
+    "shelton",
+    "mark",
+    "sykes",
+    "graphic",
+    "fusion",
+    "charleslloyd",
+    "seo",
+    "guru",
+    "emerge",
+    "nathan",
+    "puente"
+  ],
+  "author": "raymond k",
+  "license": "0000000000",
+  "bugs": {
+    "url": "https://github.com/rkooyenga/chcuckles/issues"
+  },
+  "homepage": "https://rkooyenga.github.io/chuckles",
+  "dependencies": {
+    "botbuilder": "^3.8.1",
+    "restify": "^4.3.0"
+  }
+}
