@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+  GNU nano 2.2.6                                        File: mybot/app.js                                                                                        
+
+>>>>>>> 2d1f83569ccb417349d509bf2505a1a799805870
 var restify = require('restify');
 var builder = require('botbuilder');
 

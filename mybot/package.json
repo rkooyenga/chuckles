@@ -53,10 +53,17 @@
     "nathan",
     "puente"
   ],
+<<<<<<< HEAD
   "author": "raymond k",
   "license": "0000000000",
   "bugs": {
     "url": "https://github.com/rkooyenga/chcuckles/issues"
+=======
+  "author": "ray k",
+  "license": "0000000000",
+  "bugs": {
+    "url": "https://github.com/rkooyenga/chuckles/issues"
+>>>>>>> 2d1f83569ccb417349d509bf2505a1a799805870
   },
   "homepage": "https://rkooyenga.github.io/chuckles",
   "dependencies": {
