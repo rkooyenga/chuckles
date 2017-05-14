@@ -1,2 +1,37 @@
-# chuckles
-Chuckles is a tribute to my almost career long business partner. A sometimes frightening man, of incredible intensity and strong convictions. A decisive man who knows what he wants and even more, what he does not, except when he confuses the two and proceeds to shoot us both in the foot or finally just me in the back when I'm trying to give him money and opportunity. It's tragic, but it's certifiable, verifiable, incontrovertible the events in all their absurdity that I memorialize with this as I rush through a quick haphazard draft build in my experimenting on MSB which I have not done in 15+ years. Charles is a man with whom I've shared good wine good laughs and a string of literally countless million dollar companies we together built and gave away for one reason or another. It's focus is the last few conversations we had in person or corresponding via messaging after he iced me out of our mutual interests leaving me to burn. 
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/rkooyenga/chuckles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rkooyenga/chuckles/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
